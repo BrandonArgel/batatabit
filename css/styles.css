@@ -117,7 +117,7 @@ main {
   height: 200px;
   margin: 0 auto;
   margin-bottom: 50px;
-  background: url("../assets/img/bitcoin.svg") center/cover no-repeat;
+  background: url("../assets/img/Bitcoin.svg") center/cover no-repeat;
 }
 .main__exchange-container h2 {
   margin-bottom: 30px;
